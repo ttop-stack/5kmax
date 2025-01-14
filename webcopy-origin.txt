@@ -1,0 +1,484 @@
+Uri: https://ak.sail-horizon.com/spm/spm.v1.min.js?ver=202503
+File Name: C:\Downloaded Web Sites\www.nbcphiladelphia.com\spm\spm.v1.min-1.js
+Content Type: application/javascript
+
+Uri: https://assets.adobedtm.com/a2ef59fba8e9/3ba8c6b033ff/launch-6a742ce4ddf5.min.js
+File Name: C:\Downloaded Web Sites\www.nbcphiladelphia.com\a2ef59fba8e9\3ba8c6b033ff\launch-6a742ce4ddf5.min-1.js
+Content Type: application/x-javascript
+
+Uri: https://cdn.ampproject.org/v0.js
+File Name: C:\Downloaded Web Sites\www.nbcphiladelphia.com\v0.js
+Content Type: text/javascript
+
+Uri: https://cdn.ampproject.org/v0.mjs
+File Name: C:\Downloaded Web Sites\www.nbcphiladelphia.com\v0.mjs
+Content Type: text/javascript
+
+Uri: https://cdn.ampproject.org/v0/amp-ad-0.1.js
+File Name: C:\Downloaded Web Sites\www.nbcphiladelphia.com\v0\amp-ad-0.1.js
+Content Type: text/javascript
+
+Uri: https://cdn.ampproject.org/v0/amp-ad-0.1.mjs
+File Name: C:\Downloaded Web Sites\www.nbcphiladelphia.com\v0\amp-ad-0.1.mjs
+Content Type: text/javascript
+
+Uri: https://cdn.ampproject.org/v0/amp-analytics-0.1.js
+File Name: C:\Downloaded Web Sites\www.nbcphiladelphia.com\v0\amp-analytics-0.1.js
+Content Type: text/javascript
+
+Uri: https://cdn.ampproject.org/v0/amp-analytics-0.1.mjs
+File Name: C:\Downloaded Web Sites\www.nbcphiladelphia.com\v0\amp-analytics-0.1.mjs
+Content Type: text/javascript
+
+Uri: https://cdn.ampproject.org/v0/amp-bind-0.1.js
+File Name: C:\Downloaded Web Sites\www.nbcphiladelphia.com\v0\amp-bind-0.1.js
+Content Type: text/javascript
+
+Uri: https://cdn.ampproject.org/v0/amp-bind-0.1.mjs
+File Name: C:\Downloaded Web Sites\www.nbcphiladelphia.com\v0\amp-bind-0.1.mjs
+Content Type: text/javascript
+
+Uri: https://cdn.ampproject.org/v0/amp-form-0.1.js
+File Name: C:\Downloaded Web Sites\www.nbcphiladelphia.com\v0\amp-form-0.1.js
+Content Type: text/javascript
+
+Uri: https://cdn.ampproject.org/v0/amp-form-0.1.mjs
+File Name: C:\Downloaded Web Sites\www.nbcphiladelphia.com\v0\amp-form-0.1.mjs
+Content Type: text/javascript
+
+Uri: https://cdn.ampproject.org/v0/amp-iframe-0.1.js
+File Name: C:\Downloaded Web Sites\www.nbcphiladelphia.com\v0\amp-iframe-0.1.js
+Content Type: text/javascript
+
+Uri: https://cdn.ampproject.org/v0/amp-iframe-0.1.mjs
+File Name: C:\Downloaded Web Sites\www.nbcphiladelphia.com\v0\amp-iframe-0.1.mjs
+Content Type: text/javascript
+
+Uri: https://cdn.ampproject.org/v0/amp-lightbox-gallery-0.1.js
+File Name: C:\Downloaded Web Sites\www.nbcphiladelphia.com\v0\amp-lightbox-gallery-0.1.js
+Content Type: text/javascript
+
+Uri: https://cdn.ampproject.org/v0/amp-lightbox-gallery-0.1.mjs
+File Name: C:\Downloaded Web Sites\www.nbcphiladelphia.com\v0\amp-lightbox-gallery-0.1.mjs
+Content Type: text/javascript
+
+Uri: https://cdn.ampproject.org/v0/amp-list-0.1.js
+File Name: C:\Downloaded Web Sites\www.nbcphiladelphia.com\v0\amp-list-0.1.js
+Content Type: text/javascript
+
+Uri: https://cdn.ampproject.org/v0/amp-list-0.1.mjs
+File Name: C:\Downloaded Web Sites\www.nbcphiladelphia.com\v0\amp-list-0.1.mjs
+Content Type: text/javascript
+
+Uri: https://cdn.ampproject.org/v0/amp-mustache-0.2.js
+File Name: C:\Downloaded Web Sites\www.nbcphiladelphia.com\v0\amp-mustache-0.2.js
+Content Type: text/javascript
+
+Uri: https://cdn.ampproject.org/v0/amp-mustache-0.2.mjs
+File Name: C:\Downloaded Web Sites\www.nbcphiladelphia.com\v0\amp-mustache-0.2.mjs
+Content Type: text/javascript
+
+Uri: https://cdn.ampproject.org/v0/amp-sidebar-0.1.js
+File Name: C:\Downloaded Web Sites\www.nbcphiladelphia.com\v0\amp-sidebar-0.1.js
+Content Type: text/javascript
+
+Uri: https://cdn.ampproject.org/v0/amp-sidebar-0.1.mjs
+File Name: C:\Downloaded Web Sites\www.nbcphiladelphia.com\v0\amp-sidebar-0.1.mjs
+Content Type: text/javascript
+
+Uri: https://cdn.cookielaw.org/opt-out/otCCPAiab.js
+File Name: C:\Downloaded Web Sites\www.nbcphiladelphia.com\opt-out\otCCPAiab-1.js
+Content Type: application/javascript
+
+Uri: https://cdn.parsely.com/keys/nbcphiladelphia.com/p.js?ver=3.17.0
+File Name: C:\Downloaded Web Sites\www.nbcphiladelphia.com\keys\nbcphiladelphia.com\p-2.js
+Content Type: application/javascript
+
+Uri: https://js-sec.indexww.com/ht/p/185796-256714881512110.js
+File Name: C:\Downloaded Web Sites\www.nbcphiladelphia.com\ht\p\185796-256714881512110-1.js
+Content Type: text/javascript
+
+Uri: https://media.nbcnewyork.com/2024/06/Tile_NEW-NBC10PhilaNewsLogo_DM_v2_001.jpg?quality=85&strip=all&resize=1200%2C675
+File Name: C:\Downloaded Web Sites\www.nbcphiladelphia.com\2024\06\Tile_NEW-NBC10PhilaNewsLogo_DM_v2_001-3.jpg
+Content Type: image/jpeg
+
+Uri: https://media.nbcphiladelphia.com/2019/09/cropped-NBC_Philadelphia.png?fit=180%2C180&quality=85&strip=all
+File Name: C:\Downloaded Web Sites\www.nbcphiladelphia.com\2019\09\cropped-NBC_Philadelphia-5.png
+Content Type: image/png
+
+Uri: https://media.nbcphiladelphia.com/2019/09/cropped-NBC_Philadelphia.png?fit=192%2C192&quality=85&strip=all
+File Name: C:\Downloaded Web Sites\www.nbcphiladelphia.com\2019\09\cropped-NBC_Philadelphia-4.png
+Content Type: image/png
+
+Uri: https://media.nbcphiladelphia.com/2019/09/cropped-NBC_Philadelphia.png?fit=32%2C32&quality=85&strip=all
+File Name: C:\Downloaded Web Sites\www.nbcphiladelphia.com\2019\09\cropped-NBC_Philadelphia-3.png
+Content Type: image/png
+
+Uri: https://media.nbcphiladelphia.com/2019/09/generico-police-line-do-not-cros1s1.jpg?quality=85&strip=all&resize=100%2C56
+File Name: C:\Downloaded Web Sites\www.nbcphiladelphia.com\2019\09\generico-police-line-do-not-cros1s1.jpg
+Content Type: image/jpeg
+
+Uri: https://media.nbcphiladelphia.com/2019/09/OTT-Philadelphia.png?fit=1920%2C1080&quality=85&strip=all&w=1000&h=111&crop=1
+File Name: C:\Downloaded Web Sites\www.nbcphiladelphia.com\2019\09\OTT-Philadelphia-26.png
+Content Type: image/png
+
+Uri: https://media.nbcphiladelphia.com/2019/09/OTT-Philadelphia.png?fit=1920%2C1080&quality=85&strip=all&w=1100&h=122&crop=1
+File Name: C:\Downloaded Web Sites\www.nbcphiladelphia.com\2019\09\OTT-Philadelphia-27.png
+Content Type: image/png
+
+Uri: https://media.nbcphiladelphia.com/2019/09/OTT-Philadelphia.png?fit=1920%2C1080&quality=85&strip=all&w=1200&h=133&crop=1
+File Name: C:\Downloaded Web Sites\www.nbcphiladelphia.com\2019\09\OTT-Philadelphia-28.png
+Content Type: image/png
+
+Uri: https://media.nbcphiladelphia.com/2019/09/OTT-Philadelphia.png?fit=1920%2C1080&quality=85&strip=all&w=1300&h=144&crop=1
+File Name: C:\Downloaded Web Sites\www.nbcphiladelphia.com\2019\09\OTT-Philadelphia-29.png
+Content Type: image/png
+
+Uri: https://media.nbcphiladelphia.com/2019/09/OTT-Philadelphia.png?fit=1920%2C1080&quality=85&strip=all&w=400&h=44&crop=1
+File Name: C:\Downloaded Web Sites\www.nbcphiladelphia.com\2019\09\OTT-Philadelphia-20.png
+Content Type: image/png
+
+Uri: https://media.nbcphiladelphia.com/2019/09/OTT-Philadelphia.png?fit=1920%2C1080&quality=85&strip=all&w=500&h=56&crop=1
+File Name: C:\Downloaded Web Sites\www.nbcphiladelphia.com\2019\09\OTT-Philadelphia-21.png
+Content Type: image/png
+
+Uri: https://media.nbcphiladelphia.com/2019/09/OTT-Philadelphia.png?fit=1920%2C1080&quality=85&strip=all&w=600&h=67&crop=1
+File Name: C:\Downloaded Web Sites\www.nbcphiladelphia.com\2019\09\OTT-Philadelphia-22.png
+Content Type: image/png
+
+Uri: https://media.nbcphiladelphia.com/2019/09/OTT-Philadelphia.png?fit=1920%2C1080&quality=85&strip=all&w=700&h=78&crop=1
+File Name: C:\Downloaded Web Sites\www.nbcphiladelphia.com\2019\09\OTT-Philadelphia-23.png
+Content Type: image/png
+
+Uri: https://media.nbcphiladelphia.com/2019/09/OTT-Philadelphia.png?fit=1920%2C1080&quality=85&strip=all&w=800&h=89&crop=1
+File Name: C:\Downloaded Web Sites\www.nbcphiladelphia.com\2019\09\OTT-Philadelphia-24.png
+Content Type: image/png
+
+Uri: https://media.nbcphiladelphia.com/2019/09/OTT-Philadelphia.png?fit=1920%2C1080&quality=85&strip=all&w=900&h=100&crop=1
+File Name: C:\Downloaded Web Sites\www.nbcphiladelphia.com\2019\09\OTT-Philadelphia-25.png
+Content Type: image/png
+
+Uri: https://media.nbcphiladelphia.com/2019/09/OTT-Philadelphia.png?resize=1440%2C415&quality=85&strip=all
+File Name: C:\Downloaded Web Sites\www.nbcphiladelphia.com\2019\09\OTT-Philadelphia-30.png
+Content Type: image/png
+
+Uri: https://media.nbcphiladelphia.com/2023/10/hilton.jpg?quality=85&strip=all&resize=100%2C56
+File Name: C:\Downloaded Web Sites\www.nbcphiladelphia.com\2023\10\hilton.jpg
+Content Type: image/jpeg
+
+Uri: https://media.nbcphiladelphia.com/2024/04/Philly-web@3x.png?fit=909%2C72&quality=85&strip=all
+File Name: C:\Downloaded Web Sites\www.nbcphiladelphia.com\2024\04\Philly-web@3x-1.png
+Content Type: image/png
+
+Uri: https://media.nbcphiladelphia.com/2024/08/WCAU_station_logo_dark_995595.png?fit=278%2C58&quality=85&strip=all
+File Name: C:\Downloaded Web Sites\www.nbcphiladelphia.com\2024\08\WCAU_station_logo_dark_995595-7.png
+Content Type: image/png
+
+Uri: https://media.nbcphiladelphia.com/2024/08/WCAU_station_logo_dark_995595.png?fit=278%2C58&quality=85&strip=all&w=192&h=40
+File Name: C:\Downloaded Web Sites\www.nbcphiladelphia.com\2024\08\WCAU_station_logo_dark_995595-4.png
+Content Type: image/png
+
+Uri: https://media.nbcphiladelphia.com/2024/08/WCAU_station_logo_dark_995595.png?fit=278%2C58&quality=85&strip=all&w=383&h=80
+File Name: C:\Downloaded Web Sites\www.nbcphiladelphia.com\2024\08\WCAU_station_logo_dark_995595-5.png
+Content Type: image/png
+
+Uri: https://media.nbcphiladelphia.com/2024/08/WCAU_station_logo_dark_995595.png?fit=278%2C58&quality=85&strip=all&w=575&h=120
+File Name: C:\Downloaded Web Sites\www.nbcphiladelphia.com\2024\08\WCAU_station_logo_dark_995595-6.png
+Content Type: image/png
+
+Uri: https://media.nbcphiladelphia.com/2024/08/WCAU_station_logo_light_7d8feb.png?fit=278%2C58&quality=85&strip=all
+File Name: C:\Downloaded Web Sites\www.nbcphiladelphia.com\2024\08\WCAU_station_logo_light_7d8feb-1.png
+Content Type: image/png
+
+Uri: https://media.nbcphiladelphia.com/2025/01/image-1-13.png?resize=100%2C56&quality=85&strip=all
+File Name: C:\Downloaded Web Sites\www.nbcphiladelphia.com\2025\01\image-1-13.png
+Content Type: image/png
+
+Uri: https://media.nbcphiladelphia.com/2025/01/image_38a317.png?resize=100%2C56&quality=85&strip=all
+File Name: C:\Downloaded Web Sites\www.nbcphiladelphia.com\2025\01\image_38a317.png
+Content Type: image/png
+
+Uri: https://media.nbcphiladelphia.com/2025/01/NJ-abduction-suspect-sketch-1.jpg?quality=85&strip=all
+File Name: C:\Downloaded Web Sites\www.nbcphiladelphia.com\2025\01\NJ-abduction-suspect-sketch-1-8.jpg
+Content Type: image/jpeg
+
+Uri: https://media.nbcphiladelphia.com/2025/01/NJ-abduction-suspect-sketch-1.jpg?quality=85&strip=all&fit=1920%2C1080&w=1175&h=661&crop=1
+File Name: C:\Downloaded Web Sites\www.nbcphiladelphia.com\2025\01\NJ-abduction-suspect-sketch-1-5.jpg
+Content Type: image/jpeg
+
+Uri: https://media.nbcphiladelphia.com/2025/01/NJ-abduction-suspect-sketch-1.jpg?quality=85&strip=all&fit=1920%2C1080&w=1375&h=773&crop=1
+File Name: C:\Downloaded Web Sites\www.nbcphiladelphia.com\2025\01\NJ-abduction-suspect-sketch-1-6.jpg
+Content Type: image/jpeg
+
+Uri: https://media.nbcphiladelphia.com/2025/01/NJ-abduction-suspect-sketch-1.jpg?quality=85&strip=all&fit=1920%2C1080&w=1575&h=886&crop=1
+File Name: C:\Downloaded Web Sites\www.nbcphiladelphia.com\2025\01\NJ-abduction-suspect-sketch-1-7.jpg
+Content Type: image/jpeg
+
+Uri: https://media.nbcphiladelphia.com/2025/01/NJ-abduction-suspect-sketch-1.jpg?quality=85&strip=all&fit=1920%2C1080&w=375&h=211&crop=1
+File Name: C:\Downloaded Web Sites\www.nbcphiladelphia.com\2025\01\NJ-abduction-suspect-sketch-1-1.jpg
+Content Type: image/jpeg
+
+Uri: https://media.nbcphiladelphia.com/2025/01/NJ-abduction-suspect-sketch-1.jpg?quality=85&strip=all&fit=1920%2C1080&w=575&h=323&crop=1
+File Name: C:\Downloaded Web Sites\www.nbcphiladelphia.com\2025\01\NJ-abduction-suspect-sketch-1-2.jpg
+Content Type: image/jpeg
+
+Uri: https://media.nbcphiladelphia.com/2025/01/NJ-abduction-suspect-sketch-1.jpg?quality=85&strip=all&fit=1920%2C1080&w=775&h=436&crop=1
+File Name: C:\Downloaded Web Sites\www.nbcphiladelphia.com\2025\01\NJ-abduction-suspect-sketch-1-3.jpg
+Content Type: image/jpeg
+
+Uri: https://media.nbcphiladelphia.com/2025/01/NJ-abduction-suspect-sketch-1.jpg?quality=85&strip=all&fit=1920%2C1080&w=975&h=548&crop=1
+File Name: C:\Downloaded Web Sites\www.nbcphiladelphia.com\2025\01\NJ-abduction-suspect-sketch-1-4.jpg
+Content Type: image/jpeg
+
+Uri: https://media.nbcphiladelphia.com/2025/01/NJ-abduction-suspect-sketch-1.jpg?quality=85&strip=all&resize=218%2C123
+File Name: C:\Downloaded Web Sites\www.nbcphiladelphia.com\2025\01\NJ-abduction-suspect-sketch-1.jpg
+Content Type: image/jpeg
+
+Uri: https://media.nbcphiladelphia.com/2025/01/Rorer-Street-homicide.jpg?quality=85&strip=all&resize=100%2C56
+File Name: C:\Downloaded Web Sites\www.nbcphiladelphia.com\2025\01\Rorer-Street-homicide.jpg
+Content Type: image/jpeg
+
+Uri: https://media.nbcphiladelphia.com/2025/01/Surveillance-footage-shows-truck-flee-on-South-Philly-sidewalk.jpg?quality=85&strip=all&resize=100%2C56
+File Name: C:\Downloaded Web Sites\www.nbcphiladelphia.com\2025\01\Surveillance-footage-shows-truck-flee-on-South-Philly-sidewalk.jpg
+Content Type: image/jpeg
+
+Uri: https://micro.rubiconproject.com/prebid/dynamic/24610.js
+File Name: C:\Downloaded Web Sites\www.nbcphiladelphia.com\prebid\dynamic\24610-1.js
+Content Type: text/javascript
+
+Uri: https://native.sharethrough.com/assets/sfp.js
+File Name: C:\Downloaded Web Sites\www.nbcphiladelphia.com\assets\sfp-1.js
+Content Type: application/javascript
+
+Uri: https://nbcu.tmsimg.com/assets/p26412289_b_h10_aa.jpg?w=960&h=540
+File Name: C:\Downloaded Web Sites\www.nbcphiladelphia.com\assets\p26412289_b_h10_aa.jpg
+Content Type: image/jpeg
+
+Uri: https://nbcu.tmsimg.com/assets/p26412291_b_h10_aa.jpg?w=960&h=540
+File Name: C:\Downloaded Web Sites\www.nbcphiladelphia.com\assets\p26412291_b_h10_aa.jpg
+Content Type: image/jpeg
+
+Uri: https://pixel.wp.com/g.gif?v=ext&blog=165596172&post=4077509&tz=-5&srv=www.nbcphiladelphia.com&hp=vip&host=www.nbcphiladelphia.com&rand=RANDOM&ref=DOCUMENT_REFERRER
+File Name: C:\Downloaded Web Sites\www.nbcphiladelphia.com\g.gif
+Content Type: image/gif
+
+Uri: https://sb.scorecardresearch.com/internal-c2/default/streamingtag_plugin_jwplayer.js
+File Name: C:\Downloaded Web Sites\www.nbcphiladelphia.com\internal-c2\default\streamingtag_plugin_jwplayer-1.js
+Content Type: text/javascript
+
+Uri: https://sb.scorecardresearch.com/p?c1=2&c2=6035083&cv=2.0&cj=1
+File Name: C:\Downloaded Web Sites\www.nbcphiladelphia.com\p-1
+Content Type: image/gif
+
+Uri: https://stats.wp.com/e-202503.js
+File Name: C:\Downloaded Web Sites\www.nbcphiladelphia.com\e-202503.js
+Content Type: application/javascript
+
+Uri: https://www.nbcphiladelphia.com/?rss=y
+File Name: C:\Downloaded Web Sites\www.nbcphiladelphia.com\index-2.htm
+Content Type: text/xml
+
+Uri: https://www.nbcphiladelphia.com/news/local/man-tries-to-abduct-girl-outside-nj-home-police-say/4077509/
+File Name: C:\Downloaded Web Sites\www.nbcphiladelphia.com\news\local\man-tries-to-abduct-girl-outside-nj-home-police-say\4077509\index.htm
+Content Type: text/html
+
+Uri: https://www.nbcphiladelphia.com/news/local/man-tries-to-abduct-girl-outside-nj-home-police-say/4077509/?amp=1
+File Name: C:\Downloaded Web Sites\www.nbcphiladelphia.com\news\local\man-tries-to-abduct-girl-outside-nj-home-police-say\4077509\index-1.htm
+Content Type: text/html
+
+Uri: https://www.nbcphiladelphia.com/news/local/man-tries-to-abduct-girl-outside-nj-home-police-say/4077509/?noamp=mobile
+File Name: C:\Downloaded Web Sites\www.nbcphiladelphia.com\news\local\man-tries-to-abduct-girl-outside-nj-home-police-say\4077509\index-2.htm
+Content Type: text/html
+
+Uri: https://www.nbcphiladelphia.com/wp-content/mu-plugins/wp-parsely-3.17/build/loader.js?ver=b681bb9905652ac12735
+File Name: C:\Downloaded Web Sites\www.nbcphiladelphia.com\wp-content\mu-plugins\wp-parsely-3.17\build\loader-1.js
+Content Type: application/javascript
+
+Uri: https://www.nbcphiladelphia.com/wp-content/plugins/ad-layers-nbc/js/ad-layers-dfp.js?ver=0.0.10
+File Name: C:\Downloaded Web Sites\www.nbcphiladelphia.com\wp-content\plugins\ad-layers-nbc\js\ad-layers-dfp-1.js
+Content Type: application/javascript
+
+Uri: https://www.nbcphiladelphia.com/wp-content/plugins/ad-layers-nbc/js/ad-layers.js?ver=0.0.10
+File Name: C:\Downloaded Web Sites\www.nbcphiladelphia.com\wp-content\plugins\ad-layers-nbc\js\ad-layers-1.js
+Content Type: application/javascript
+
+Uri: https://www.nbcphiladelphia.com/wp-content/themes/nbc-station/client/build/css/fastWidget.daa569332827cdb62ff7.min.css?ver=1.0.2
+File Name: C:\Downloaded Web Sites\www.nbcphiladelphia.com\wp-content\themes\nbc-station\client\build\css\fastWidget.daa569332827cdb62ff7.min-1.css
+Content Type: text/css
+
+Uri: https://www.nbcphiladelphia.com/wp-content/themes/nbc-station/client/build/css/flyoutNav.f7ce8f18bd2f18bdc18e.min.css
+File Name: C:\Downloaded Web Sites\www.nbcphiladelphia.com\wp-content\themes\nbc-station\client\build\css\flyoutNav.f7ce8f18bd2f18bdc18e.min-1.css
+Content Type: text/css
+
+Uri: https://www.nbcphiladelphia.com/wp-content/themes/nbc-station/client/build/css/footer.66145451fec4230fa4f9.min.css
+File Name: C:\Downloaded Web Sites\www.nbcphiladelphia.com\wp-content\themes\nbc-station\client\build\css\footer.66145451fec4230fa4f9.min-1.css
+Content Type: text/css
+
+Uri: https://www.nbcphiladelphia.com/wp-content/themes/nbc-station/client/build/css/jwPlayer.9a66dc117d647e28afbc.min.css
+File Name: C:\Downloaded Web Sites\www.nbcphiladelphia.com\wp-content\themes\nbc-station\client\build\css\jwPlayer.9a66dc117d647e28afbc.min-1.css
+Content Type: text/css
+
+Uri: https://www.nbcphiladelphia.com/wp-content/themes/nbc-station/client/build/css/weatherConditions.5d28482f682d84da68e8.min.css
+File Name: C:\Downloaded Web Sites\www.nbcphiladelphia.com\wp-content\themes\nbc-station\client\build\css\weatherConditions.5d28482f682d84da68e8.min-1.css
+Content Type: text/css
+
+Uri: https://www.nbcphiladelphia.com/wp-content/themes/nbc-station/client/build/css/weatherIcons.04ad80f6dd854170fd37.min.css
+File Name: C:\Downloaded Web Sites\www.nbcphiladelphia.com\wp-content\themes\nbc-station\client\build\css\weatherIcons.04ad80f6dd854170fd37.min-1.css
+Content Type: text/css
+
+Uri: https://www.nbcphiladelphia.com/wp-content/themes/nbc-station/client/build/js/article.bacb5ad93541d27e4076.bundle.min.js
+File Name: C:\Downloaded Web Sites\www.nbcphiladelphia.com\wp-content\themes\nbc-station\client\build\js\article.bacb5ad93541d27e4076.bundle.min.js
+Content Type: application/javascript
+
+Uri: https://www.nbcphiladelphia.com/wp-content/themes/nbc-station/client/build/js/articleContent.8e1b5dd4e9c1614089b0.bundle.min.js
+File Name: C:\Downloaded Web Sites\www.nbcphiladelphia.com\wp-content\themes\nbc-station\client\build\js\articleContent.8e1b5dd4e9c1614089b0.bundle.min-1.js
+Content Type: application/javascript
+
+Uri: https://www.nbcphiladelphia.com/wp-content/themes/nbc-station/client/build/js/common.94242f920aba891281dc.bundle.min.js
+File Name: C:\Downloaded Web Sites\www.nbcphiladelphia.com\wp-content\themes\nbc-station\client\build\js\common.94242f920aba891281dc.bundle.min.js
+Content Type: application/javascript
+
+Uri: https://www.nbcphiladelphia.com/wp-content/themes/nbc-station/client/build/js/electionsBlock.6dff3c604fe0baeb6de6.bundle.min.js
+File Name: C:\Downloaded Web Sites\www.nbcphiladelphia.com\wp-content\themes\nbc-station\client\build\js\electionsBlock.6dff3c604fe0baeb6de6.bundle.min-1.js
+Content Type: application/javascript
+
+Uri: https://www.nbcphiladelphia.com/wp-content/themes/nbc-station/client/build/js/flyoutNav.6ee503eef32f1560a6e2.bundle.min.js
+File Name: C:\Downloaded Web Sites\www.nbcphiladelphia.com\wp-content\themes\nbc-station\client\build\js\flyoutNav.6ee503eef32f1560a6e2.bundle.min-1.js
+Content Type: application/javascript
+
+Uri: https://www.nbcphiladelphia.com/wp-content/themes/nbc-station/client/build/js/global.f15d68141fb382f47b00.bundle.min.js
+File Name: C:\Downloaded Web Sites\www.nbcphiladelphia.com\wp-content\themes\nbc-station\client\build\js\global.f15d68141fb382f47b00.bundle.min-1.js
+Content Type: application/javascript
+
+Uri: https://www.nbcphiladelphia.com/wp-content/themes/nbc-station/client/build/js/jwPlayer.dd4b0358b161aee18e7f.bundle.min.js
+File Name: C:\Downloaded Web Sites\www.nbcphiladelphia.com\wp-content\themes\nbc-station\client\build\js\jwPlayer.dd4b0358b161aee18e7f.bundle.min-1.js
+Content Type: application/javascript
+
+Uri: https://www.nbcphiladelphia.com/wp-content/themes/nbc-station/client/build/js/nativeSponsor.ddc3a9126a2405053928.bundle.min.js
+File Name: C:\Downloaded Web Sites\www.nbcphiladelphia.com\wp-content\themes\nbc-station\client\build\js\nativeSponsor.ddc3a9126a2405053928.bundle.min-1.js
+Content Type: application/javascript
+
+Uri: https://www.nbcphiladelphia.com/wp-content/themes/nbc-station/client/build/js/weatherConditions.d5a680bebc2728e285cb.bundle.min.js
+File Name: C:\Downloaded Web Sites\www.nbcphiladelphia.com\wp-content\themes\nbc-station\client\build\js\weatherConditions.d5a680bebc2728e285cb.bundle.min-1.js
+Content Type: application/javascript
+
+Uri: https://www.nbcphiladelphia.com/wp-content/themes/nbc-station/client/build/js/webVitals.3e8153c4b7f80443d511.bundle.min.js
+File Name: C:\Downloaded Web Sites\www.nbcphiladelphia.com\wp-content\themes\nbc-station\client\build\js\webVitals.3e8153c4b7f80443d511.bundle.min-1.js
+Content Type: application/javascript
+
+Uri: https://www.nbcphiladelphia.com/wp-content/themes/nbc-station/client/build/media/ArthouseOwned-Black.woff2
+File Name: C:\Downloaded Web Sites\www.nbcphiladelphia.com\wp-content\themes\nbc-station\client\build\media\ArthouseOwned-Black-1.woff2
+Content Type: application/font-woff2
+
+Uri: https://www.nbcphiladelphia.com/wp-content/themes/nbc-station/client/build/media/ArthouseOwned-BlackItalic.woff2
+File Name: C:\Downloaded Web Sites\www.nbcphiladelphia.com\wp-content\themes\nbc-station\client\build\media\ArthouseOwned-BlackItalic-1.woff2
+Content Type: application/font-woff2
+
+Uri: https://www.nbcphiladelphia.com/wp-content/themes/nbc-station/client/build/media/ArthouseOwned-Bold.woff2
+File Name: C:\Downloaded Web Sites\www.nbcphiladelphia.com\wp-content\themes\nbc-station\client\build\media\ArthouseOwned-Bold-1.woff2
+Content Type: application/font-woff2
+
+Uri: https://www.nbcphiladelphia.com/wp-content/themes/nbc-station/client/build/media/ArthouseOwned-BoldItalic.woff2
+File Name: C:\Downloaded Web Sites\www.nbcphiladelphia.com\wp-content\themes\nbc-station\client\build\media\ArthouseOwned-BoldItalic-1.woff2
+Content Type: application/font-woff2
+
+Uri: https://www.nbcphiladelphia.com/wp-content/themes/nbc-station/client/build/media/ArthouseOwned-Italic.woff2
+File Name: C:\Downloaded Web Sites\www.nbcphiladelphia.com\wp-content\themes\nbc-station\client\build\media\ArthouseOwned-Italic-1.woff2
+Content Type: application/font-woff2
+
+Uri: https://www.nbcphiladelphia.com/wp-content/themes/nbc-station/client/build/media/ArthouseOwned-Light.woff2
+File Name: C:\Downloaded Web Sites\www.nbcphiladelphia.com\wp-content\themes\nbc-station\client\build\media\ArthouseOwned-Light-1.woff2
+Content Type: application/font-woff2
+
+Uri: https://www.nbcphiladelphia.com/wp-content/themes/nbc-station/client/build/media/ArthouseOwned-LightItalic.woff2
+File Name: C:\Downloaded Web Sites\www.nbcphiladelphia.com\wp-content\themes\nbc-station\client\build\media\ArthouseOwned-LightItalic-1.woff2
+Content Type: application/font-woff2
+
+Uri: https://www.nbcphiladelphia.com/wp-content/themes/nbc-station/client/build/media/ArthouseOwned-Medium.woff2
+File Name: C:\Downloaded Web Sites\www.nbcphiladelphia.com\wp-content\themes\nbc-station\client\build\media\ArthouseOwned-Medium-1.woff2
+Content Type: application/font-woff2
+
+Uri: https://www.nbcphiladelphia.com/wp-content/themes/nbc-station/client/build/media/ArthouseOwned-MediumItalic.woff2
+File Name: C:\Downloaded Web Sites\www.nbcphiladelphia.com\wp-content\themes\nbc-station\client\build\media\ArthouseOwned-MediumItalic-1.woff2
+Content Type: application/font-woff2
+
+Uri: https://www.nbcphiladelphia.com/wp-content/themes/nbc-station/client/build/media/ArthouseOwned-Regular.woff2
+File Name: C:\Downloaded Web Sites\www.nbcphiladelphia.com\wp-content\themes\nbc-station\client\build\media\ArthouseOwned-Regular-1.woff2
+Content Type: application/font-woff2
+
+Uri: https://www.nbcphiladelphia.com/wp-content/themes/nbc-station/client/build/media/ArthouseOwned-SemiBold.woff2
+File Name: C:\Downloaded Web Sites\www.nbcphiladelphia.com\wp-content\themes\nbc-station\client\build\media\ArthouseOwned-SemiBold-1.woff2
+Content Type: application/font-woff2
+
+Uri: https://www.nbcphiladelphia.com/wp-content/themes/nbc-station/client/build/media/Roboto-Bold.woff2
+File Name: C:\Downloaded Web Sites\www.nbcphiladelphia.com\wp-content\themes\nbc-station\client\build\media\Roboto-Bold-1.woff2
+Content Type: application/font-woff2
+
+Uri: https://www.nbcphiladelphia.com/wp-content/themes/nbc-station/client/build/media/Roboto-BoldItalic.woff2
+File Name: C:\Downloaded Web Sites\www.nbcphiladelphia.com\wp-content\themes\nbc-station\client\build\media\Roboto-BoldItalic-1.woff2
+Content Type: application/font-woff2
+
+Uri: https://www.nbcphiladelphia.com/wp-content/themes/nbc-station/client/build/media/Roboto-Medium.woff2
+File Name: C:\Downloaded Web Sites\www.nbcphiladelphia.com\wp-content\themes\nbc-station\client\build\media\Roboto-Medium-1.woff2
+Content Type: application/font-woff2
+
+Uri: https://www.nbcphiladelphia.com/wp-content/themes/nbc-station/client/build/media/Roboto-MediumItalic.woff2
+File Name: C:\Downloaded Web Sites\www.nbcphiladelphia.com\wp-content\themes\nbc-station\client\build\media\Roboto-MediumItalic-1.woff2
+Content Type: application/font-woff2
+
+Uri: https://www.nbcphiladelphia.com/wp-content/themes/nbc-station/client/build/media/Roboto-Regular.woff2
+File Name: C:\Downloaded Web Sites\www.nbcphiladelphia.com\wp-content\themes\nbc-station\client\build\media\Roboto-Regular-1.woff2
+Content Type: application/font-woff2
+
+Uri: https://www.nbcphiladelphia.com/wp-content/themes/nbc-station/client/build/media/RobotoMono-Medium.ttf
+File Name: C:\Downloaded Web Sites\www.nbcphiladelphia.com\wp-content\themes\nbc-station\client\build\media\RobotoMono-Medium-1.ttf
+Content Type: application/font-ttf
+
+Uri: https://www.nbcphiladelphia.com/wp-content/themes/nbc-station/static/video/videoHeartbeat/VideoHeartbeat.min.js?ver=1.0.2
+File Name: C:\Downloaded Web Sites\www.nbcphiladelphia.com\wp-content\themes\nbc-station\static\video\videoHeartbeat\VideoHeartbeat.min-1.js
+Content Type: application/javascript
+
+Uri: https://www.nbcphiladelphia.com/wp-includes/js/dist/api-fetch.min.js?ver=0fa4dabf8bf2c7adf21a
+File Name: C:\Downloaded Web Sites\www.nbcphiladelphia.com\wp-includes\js\dist\api-fetch.min-1.js
+Content Type: application/javascript
+
+Uri: https://www.nbcphiladelphia.com/wp-includes/js/dist/hooks.min.js?ver=c6aec9a8d4e5a5d543a1
+File Name: C:\Downloaded Web Sites\www.nbcphiladelphia.com\wp-includes\js\dist\hooks.min-1.js
+Content Type: application/javascript
+
+Uri: https://www.nbcphiladelphia.com/wp-includes/js/dist/i18n.min.js?ver=7701b0c3857f914212ef
+File Name: C:\Downloaded Web Sites\www.nbcphiladelphia.com\wp-includes\js\dist\i18n.min-1.js
+Content Type: application/javascript
+
+Uri: https://www.nbcphiladelphia.com/wp-includes/js/dist/url.min.js?ver=8814d23f2d64864d280d
+File Name: C:\Downloaded Web Sites\www.nbcphiladelphia.com\wp-includes\js\dist\url.min-1.js
+Content Type: application/javascript
+
+Uri: https://www.nbcphiladelphia.com/wp-includes/js/dist/vendor/regenerator-runtime.min.js?ver=0.13.11
+File Name: C:\Downloaded Web Sites\www.nbcphiladelphia.com\wp-includes\js\dist\vendor\regenerator-runtime.min-1.js
+Content Type: application/javascript
+
+Uri: https://www.nbcphiladelphia.com/wp-includes/js/dist/vendor/wp-polyfill-inert.min.js?ver=3.1.2
+File Name: C:\Downloaded Web Sites\www.nbcphiladelphia.com\wp-includes\js\dist\vendor\wp-polyfill-inert.min-1.js
+Content Type: application/javascript
+
+Uri: https://www.nbcphiladelphia.com/wp-includes/js/dist/vendor/wp-polyfill.min.js?ver=3.15.0
+File Name: C:\Downloaded Web Sites\www.nbcphiladelphia.com\wp-includes\js\dist\vendor\wp-polyfill.min-1.js
+Content Type: application/javascript
+
+Uri: https://www.nbcphiladelphia.com/wp-json/
+File Name: C:\Downloaded Web Sites\www.nbcphiladelphia.com\wp-json\index-1.htm
+Content Type: application/json
+
+Uri: https://www.nbcphiladelphia.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fwww.nbcphiladelphia.com%2Fnews%2Flocal%2Fman-tries-to-abduct-girl-outside-nj-home-police-say%2F4077509%2F
+File Name: C:\Downloaded Web Sites\www.nbcphiladelphia.com\wp-json\oembed\1.0\embed-258
+Content Type: application/json
+
+Uri: https://www.nbcphiladelphia.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fwww.nbcphiladelphia.com%2Fnews%2Flocal%2Fman-tries-to-abduct-girl-outside-nj-home-police-say%2F4077509%2F&format=xml
+File Name: C:\Downloaded Web Sites\www.nbcphiladelphia.com\wp-json\oembed\1.0\embed-259
+Content Type: text/xml
+
+Uri: https://www.nbcphiladelphia.com/wp-json/wp/v2/posts/4077509
+File Name: C:\Downloaded Web Sites\www.nbcphiladelphia.com\wp-json\wp\v2\posts\4077509
+Content Type: application/json
+
